@@ -2,7 +2,7 @@
 
 A solution for detecting, installing, and activating ESU MAK product keys for Windows 7, Windows Server 2008, and Windows Server 2008 R2.
 
-This solution consists of a Configuration Item "ESU - MAK Product Key Installation and Activation - Windows 7, 2008, 2008 R2.cab" which can be imported to System Center Configuration Manager Compliance. Please create a Configuration Baseline containing this Configuration Item for deployment to your Device Collections.
+This solution consists of a Configuration Item "ESU - MAK Product Key Installation and Activation - Windows 7, 2008, 2008 R2.cab" which can be imported to System Center Configuration Manager Compliance. Please create a Configuration Baseline containing this Configuration Item to deploy the settings to your Device Collection(s).
 
 Please edit the PowerShell scripts contained in the Configuration Item and replace all instances of "INSERT-ESU-KEY-HERE" with the proper ESU MAK product keys procured by your organization.
 
